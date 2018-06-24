@@ -1,0 +1,17 @@
+{
+    "name": "nan-apps/Bowling",
+    "description": "ejercicio para TDD de UncleBob",
+    "type": "library",
+    "require": {
+        "phpunit/phpunit": "^7.2"
+    },
+    "authors": [
+        {
+            "name": "gaston",
+            "email": "gaston@nan-apps.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Bowling\\": ""}
+    }
+}
