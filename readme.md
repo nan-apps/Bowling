@@ -1,4 +1,4 @@
-## Bowling game excersice proposed by UncleBob in Clean Code
+## Bowling game excersice proposed by UncleBob in Clean Code for learning TDD
 
 ### Technologies
 
