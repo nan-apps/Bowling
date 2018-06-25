@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/nan-apps/Bowling.svg?branch=master)](https://travis-ci.org/nan-apps/Bowling)
+
 ## Bowling game excersice proposed by UncleBob in Clean Code for learning TDD
 
 ### Technologies
